@@ -1,0 +1,16 @@
+{
+    "name": "ameon/ameon_fpdf",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ameon\\AmeonFpdf\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ameon",
+            "email": "ameon@ya.ru"
+        }
+    ],
+    "require": {}
+}
