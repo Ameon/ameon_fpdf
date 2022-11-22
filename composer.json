@@ -2,9 +2,9 @@
     "name": "ameon/ameon_fpdf",
     "license": "MIT",
     "autoload": {
-        "psr-4": {
-            "Ameon\\AmeonFpdf\\": "src/"
-        }
+        "classmap": [
+            "fpdf.php"
+        ]
     },
     "authors": [
         {
@@ -12,5 +12,6 @@
             "email": "ameon@ya.ru"
         }
     ],
+
     "require": {}
 }
